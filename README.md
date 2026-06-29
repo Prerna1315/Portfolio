@@ -22,5 +22,5 @@ I'm Prerna, a B.Tech Computer Science student passionate about AI/ML and Web Dev
 
 ## 📬 Contact
 Email: prernarevalia@gmail.com
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: [(Add your LinkedIn URL)](https://www.linkedin.com/in/prerna-revalia-38516a335/)
 GitHub: https://github.com/Prerna1315
